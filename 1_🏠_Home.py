@@ -59,7 +59,7 @@ st.markdown(
 st.markdown(
         f"""
         <div style="{box_style}">
-        <h4 style='color: #0066cc;'>How it Works!</h4>
+        <h4 style='color: #000000;'>How it Works!</h4>
         <ul>
             <li>Begin by choosing a specific task or analysis type from the options available in the sidebar.</li>
             <li>You can ask questions about the content of the PDFs, like having a chat with your documents</li>
@@ -78,7 +78,7 @@ st.markdown(
 st.markdown(
     f"""
     <div style="{box_style}">
-        <h4 style='color: #0066cc;'>Features</h4>
+        <h4 style='color: #000000;'>Features</h4>
         <ul>
             <li>User-Friendly Interface</li>
             <li>Customized Results</li>
