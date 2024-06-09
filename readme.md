@@ -14,12 +14,12 @@ The DataSense Suite project utilizes a variety of technologies and libraries to 
 
 
 
-Libraries           |  UI | Miscellaneous Stuff
-:-------------------------:|:-------------------------: | :-------------------------:|
+Stack         |  Stack    | Stack   | Stack
+:-------------------------:|:-------------------------: | :-------------------------:| :-------------------------:|
 ![MediaPipe](https://img.shields.io/badge/mediapipe-%23ffdb00.svg?style=for-the-badge&logo=google&logoColor=black)  |  ![LangChain](https://img.shields.io/badge/langchain-%230073ff.svg?style=for-the-badge&logo=chain&logoColor=white) | ![gTTS](https://img.shields.io/badge/gTTS-%23ffda44.svg?style=for-the-badge&logo=google&logoColor=black)| 
 ![WordCloud](https://img.shields.io/badge/wordcloud-%23FF9900.svg?style=for-the-badge&logo=cloud&logoColor=white) | ![PyPDF2](https://img.shields.io/badge/pypdf2-%234B8BBE.svg?style=for-the-badge&logo=python&logoColor=white) | ![Matplotlib](https://img.shields.io/badge/matplotlib-%230079C8.svg?style=for-the-badge&logo=python&logoColor=white) | 
 ![cvzone](https://img.shields.io/badge/cvzone-%2332CD32.svg?style=for-the-badge&logo=opencv&logoColor=white) | ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) | ![OpenAI](https://img.shields.io/badge/OpenAI-%234a4a4a.svg?style=for-the-badge&logo=openai&logoColor=white) |
- ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) | ![Streamlit](https://img.shields.io/badge/streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) | ![Langchain](https://img.shields.io/badge/langchain-%23FF4B4B.svg?style=for-the-badge)
+ ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) | ![Streamlit](https://img.shields.io/badge/streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) | ![Langchain](https://img.shields.io/badge/langchain-%23FF4B4B.svg?style=for-the-badge) | ![Pillow](https://img.shields.io/badge/pillow-%23FF4B4B.svg?style=for-the-badge) 
 
 
 
