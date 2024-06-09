@@ -1,6 +1,7 @@
 
 
-![head](https://github.com/Asma-Khanam/DataSense-Suite/assets/128472305/c4561809-7e99-48e3-a6a1-4a8d27e2a706)
+![head](https://github.com/Asma-Khanam/DataSense-Suite/assets/128472305/02ad6440-378c-46dd-9462-b0b69d8e9fde)
+
 
 
 # DataSense Suite
