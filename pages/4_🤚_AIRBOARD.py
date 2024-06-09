@@ -23,7 +23,7 @@ with col1:
     output_text_area = st.empty()  # Placeholder for the output text
 
 # Generative AI configuration
-genai.configure(api_key="AIzaSyAu7w2tMO4kIAiB-RDMh8vywmF8OqBjpQk")
+genai.configure(api_key="your api key")
 model = genai.GenerativeModel('gemini-1.5-flash')
 
 # Initialize the webcam to capture video
