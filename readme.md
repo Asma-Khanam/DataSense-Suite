@@ -1,24 +1,22 @@
 
-![White Minimalist Simple Aesthetic Name Twitter Header](https://github.com/Asma-Khanam/DocConvo/assets/128472305/d95a2fb5-4d5d-4057-8736-9301342e598a)
 
-# DocConvo
+![head](https://github.com/Asma-Khanam/DataSense-Suite/assets/128472305/c4561809-7e99-48e3-a6a1-4a8d27e2a706)
 
-This project consists of two Streamlit applications for document-related queries and for visualizing data in Excel files. The applications are designed to provide a seamless experience for users interested in interacting with their documents and visualizing  data.
+# DataSense Suite
+
+DataSense Suite is a Streamlit application designed to address the challenges of modern-day education, particularly those arising from the shift to online learning since COVID-19. Our solution aims to enhance the online learning experience by providing tools that make virtual teaching and learning more interactive and efficient. By leveraging advanced technologies, DataSense Suite simplifies and enriches the educational process for both teachers and students.
 
 
 # Features
 
 ## Document Chat
-- Language Translation: Users can translate their queries to various languages before interacting with the document chat system.
-- PDF Processing: Users can upload PDF documents, and the system extracts text for further analysis.
-- Conversational AI: Utilizes a Conversational Retrieval Chain for handling user queries and generating responses based on document content.
-- Word Cloud Visualization: Generates and displays a word cloud based on the processed document text.
+This feature generates word clouds, provides summaries based on user questions, translates text, and includes a text-to-speech functionality to enhance document comprehension and accessibility.
 
-## Excel Plotter
-- Excel File Upload: Users can upload Excel files (.xlsx or .csv) for data analysis and visualization.
-- Column Selection: Allows users to select specific columns for analysis.
-- Grouping and Plotting: Group and visualize data based on selected columns, with support for bar plots.
-- Download Options: Provides download links for the processed Excel file and generated plots.
+## Data Visualiser
+This tool allows users to upload datasheets and visualize the data through various charts and graphs, making data analysis and interpretation straightforward and intuitive.
+
+## Airboard
+An innovative feature that enables users to write in the air to explain concepts virtually, eliminating the need for expensive devices like iPads. It simplifies the explanation process, requiring only a finger for effective online teaching.
 
 ## Getting Started
 
@@ -36,22 +34,33 @@ For running application:
 ```bash
 streamlit run 1_🏠_Home.py
 ```
-## Dependencies
 
-- [Streamlit](https://streamlit.io)
 
-- [PyPDF2](https://pypi.org/project/PyPDF2/)
 
-- [LangChain](https://www.langchain.com)
+## Tech Stack
 
-- [WordCloud]()
+The DataSense Suite project utilizes a variety of technologies and libraries to deliver its features. Below is a summary of the key components used:
 
-- [Matplotlib](https://matplotlib.org)
+![Streamlit](https://img.shields.io/badge/streamlit-%23FF4B4B.svg?style=plastic&logo=streamlit&logoColor=white)
 
-- [Googletrans]()
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
 
-- [Pandas]()
+![OpenAI](https://img.shields.io/badge/OpenAI-%234a4a4a.svg?style=plastic&logo=openai&logoColor=white)
 
-- [Plotly Express](https://plotly.com/python/plotly-express/)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white)
 
+![cvzone](https://img.shields.io/badge/cvzone-%2332CD32.svg?style=plastic&logo=opencv&logoColor=white)
+
+![Matplotlib](https://img.shields.io/badge/matplotlib-%230079C8.svg?style=plastic&logo=python&logoColor=white)
+
+![PyPDF2](https://img.shields.io/badge/pypdf2-%234B8BBE.svg?style=plastic&logo=python&logoColor=white)
+
+![WordCloud](https://img.shields.io/badge/wordcloud-%23FF9900.svg?style=plastic&logo=cloud&logoColor=white)
+
+![gTTS](https://img.shields.io/badge/gTTS-%23ffda44.svg?style=plastic&logo=google&logoColor=black)
+
+
+![LangChain](https://img.shields.io/badge/langchain-%230073ff.svg?style=plastic&logo=chain&logoColor=white)
+
+![MediaPipe](https://img.shields.io/badge/mediapipe-%23ffdb00.svg?style=plastic&logo=google&logoColor=black)
 

@@ -12,7 +12,7 @@ with st.sidebar:
 page_bg_img = f"""
 <style>
 [data-testid="stAppViewContainer"] > .main {{
-background-color: #143d59;
+background-color: 714423;
 background-size: 180%;
 background-position: top left;
 background-repeat: no-repeat;
