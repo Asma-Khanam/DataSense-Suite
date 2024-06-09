@@ -26,16 +26,16 @@ Stack         |  Stack    | Stack
 
 # Features
 
-## Document Chat
+## Document Chat 📃 
 This feature generates word clouds, provides summaries based on user questions, translates text, and includes a text-to-speech functionality to enhance document comprehension and accessibility.
 
-## Data Visualiser
+## Data Visualiser 📊 
 This tool allows users to upload datasheets and visualize the data through various charts and graphs, making data analysis and interpretation straightforward and intuitive.
 
-## Airboard
+## Airboard 🤚 
 An innovative feature that enables users to write in the air to explain concepts virtually, eliminating the need for expensive devices like iPads. It simplifies the explanation process, requiring only a finger for effective online teaching.
 
-## Virtual Learning
+## Virtual Learning 👁️ 
 "Visual Learning" is a Streamlit web application designed to facilitate visual learning experiences. It leverages the Stability AI API to generate images based on user prompts and uploaded images, offering two modes: text-to-image and image-to-image. Users can input prompts, select modes, upload images, and adjust conversion strength for image-to-image mode.
 
 
